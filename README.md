@@ -1,4 +1,4 @@
-# JDBC-Crud
+# JDBC-Mysql-Crud
 
 JDBC CRUD operations concepts by using the five steps:
 
